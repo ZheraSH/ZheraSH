@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZheraSH
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, and js
+- 🌱 I’m currently learning laravel and php
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a student yeay :)
 
